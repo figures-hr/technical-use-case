@@ -48,4 +48,4 @@ Basically what's included in the project: TypeScript, Next.js, Prisma, TailwindC
 
 ## Misc
 
-You're expected to spend about 3 hours on the test. After this, you can share us your repo (a GitHub fork is appreciated) and we'll setup a debrief call to discuss what you produced.
+You're expected to spend about 3 hours on the test. After this, you can share us your repo (ideally, clone it on GitHub, then share it privately to [@bstnfrmry](https://github.com/bstnfrmry)) and we'll setup a debrief call to discuss what you produced.
