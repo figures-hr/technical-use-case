@@ -31,7 +31,7 @@ open http://localhost:3000
 
 ## MVP
 
-Build a miniature version of [Figures's Market Data Browser](https://figures.hr/try). Starting from the predefined database schema, build a page that allows the user to select one job and visualise market data statistics for employees with this given job. Interesting statistics include (but not limited to): median salary, P25 salary, P75 salary, number of incumbents.
+Build a miniature version of [Figures's Market Data Browser](https://app.figures.hr/try). Starting from the predefined database schema, build a page that allows the user to select one job and visualise market data statistics for employees with this given job. Interesting statistics include (but not limited to): median salary, P25 salary, P75 salary, number of incumbents.
 
 ## Advanced
 
