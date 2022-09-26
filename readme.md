@@ -1,3 +1,5 @@
+> 💡 If you have interesting/relevant work (either OSS work or a personal project) you'd like to present to us rather than doing this exercise, let us know!
+
 This is the base repository to use for the Figures technical use case.
 
 # Requirements
